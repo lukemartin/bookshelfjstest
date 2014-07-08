@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.4.x",
+    "mysql": "~2.3.2",
+    "bookshelf": "~0.7.6",
+    "knex": "~0.6.20",
+    "coffee-script": "~1.7.1"
+  },
+  "devDependencies": {}
+}
